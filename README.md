@@ -1,22 +1,22 @@
 # gitrevision
 ## test
-To revise git
+### To revise git
 
-Three Local States of Git
- Working directory
- Staging area - pre-commit holding area
- Commit - Git Repository(history) -> .git folder 
-
-
-Remote repository 
-
-Master Branches.
+#### Three Local States of Git
+#### Working directory
+#### Staging area - pre-commit holding area
+ #### Commit - Git Repository(history) -> .git folder 
 
 
- setting name: git config --global user.name "name"
- setting email: git config --global user.email "email"
- git config --global --list
- git push origin master
+#### Remote repository 
 
-->username for 'https://github.com': "name"
-->userpassword for 'https://email@a.com': "email"
+#### Master Branches.
+
+
+#### setting name: git config --global user.name "name"
+#### setting email: git config --global user.email "email"
+#### git config --global --list
+#### git push origin master
+
+#### ->username for 'https://github.com': "name"
+#### ->userpassword for 'https://email@a.com': "email" 
