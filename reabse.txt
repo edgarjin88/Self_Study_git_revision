@@ -1,2 +1,5 @@
 conflict test
 conflict change from master
+
+-from big trouble. 
+test 2s
