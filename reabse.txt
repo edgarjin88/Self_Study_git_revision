@@ -1,7 +1,7 @@
 conflict test
 conflict change from master
 
-modify from git hub
+modify from git hub..
 
 <<<<<<< HEAD
 -from big trouble. 
