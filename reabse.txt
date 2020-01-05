@@ -1,1 +1,2 @@
 conflict test
+conflict change from master
