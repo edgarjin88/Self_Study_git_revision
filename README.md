@@ -29,3 +29,5 @@
 #### pull request
 #### test for simple-change branch
 #### test for conflict from master
+
+#### test for rebasing on master branch
