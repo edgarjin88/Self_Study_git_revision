@@ -31,3 +31,5 @@
 #### test for conflict from master
 
 #### test for rebasing on master branch
+
+#### test for rebasing on feature branch
