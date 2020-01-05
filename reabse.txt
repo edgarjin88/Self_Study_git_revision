@@ -1,6 +1,8 @@
 conflict test
 conflict change from master
 
+modify from git hub
+
 <<<<<<< HEAD
 -from big trouble. 
 test 2s
