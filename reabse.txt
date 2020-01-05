@@ -1,5 +1,9 @@
 conflict test
 conflict change from master
 
+<<<<<<< HEAD
 -from big trouble. 
 test 2s
+=======
+-from big trouble. 
+>>>>>>> parent of 375592f... latet
